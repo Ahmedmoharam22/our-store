@@ -1,4 +1,4 @@
-# Maltimart Ecommerce
+# Our Store Ecommerce
 
 ## 📌 Live Demo
 https://multimart-ecommerce.onrender.com
